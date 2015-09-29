@@ -1,2 +1,2 @@
 # repositorioRemoteWeb
-Prueba con Git Bash
+Prueba manejar repositorio mediante git bash
